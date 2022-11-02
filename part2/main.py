@@ -1,5 +1,4 @@
 
-
 # SKUYMI [helmisalsabila.com]
 
 import turtle as t 
