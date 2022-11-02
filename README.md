@@ -2,8 +2,8 @@
 Menggambar menggunakan Python
 
 
-# Suka dengan Submission? Kamu bisa memberikan dukungan dengan berdonasi
+# Suka dengan menggambar menggunakan Python? Kamu bisa memberikan dukungan dengan berdonasi
 
 <a href="https://saweria.co/helmisalsabila" target="_blank">Saweria</a>
 
-<a href="https://trakteer.id/helmisalsabila" target="_blank">Trakteer Coffee</a>
+<a href="https://trakteer.id/helmisalsabila" target="_blank">Trakteer</a>
