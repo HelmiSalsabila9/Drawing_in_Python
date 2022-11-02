@@ -1,5 +1,5 @@
 # Drawing_in_Python
-Menggambar menggunakan Python
+Menggambar menggunakan Python bertujuan untuk pembelajaran (Edukasi).
 
 
 # Suka dengan menggambar menggunakan Python? Kamu bisa memberikan dukungan dengan berdonasi
