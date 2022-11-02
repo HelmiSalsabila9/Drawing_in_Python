@@ -2,7 +2,7 @@
 Menggambar menggunakan Python bertujuan untuk pembelajaran (Edukasi).
 
 
-# Suka dengan menggambar menggunakan Python? Kamu bisa memberikan dukungan dengan berdonasi
+# Suka dengan cara menggambar menggunakan Python? Kamu bisa memberikan dukungan dengan berdonasi
 
 <a href="https://saweria.co/helmisalsabila" target="_blank">Saweria</a>
 
