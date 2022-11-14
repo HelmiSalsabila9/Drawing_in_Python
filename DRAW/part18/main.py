@@ -6,7 +6,7 @@ import turtle as t
 import colorsys as c 
 
 t.bgcolor('black')
-t.tracer(5)
+t.tracer(200)
 
 h = 25
 
